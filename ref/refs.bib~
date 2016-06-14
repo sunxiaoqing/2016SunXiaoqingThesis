@@ -1,0 +1,1075 @@
+@article{liu2012seismo,
+  title={Seismo-traveling ionospheric disturbances triggered by the 12 May 2008 M 8.0 Wenchuan earthquake},
+  author={Liu, Jann-Yenq and Sun, Yang-Yi and Tsai, Ho-Fang and Lin, Chien-Hung },
+  journal={Terr. Atmos. Ocean. Sci},
+  volume={23},
+  number={1},
+  pages={9--15},
+  year={2012}
+}
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+
+@article{luque2009emergence,
+  title={Emergence of sprite streamers from screening-ionization waves in the lower ionosphere},
+  author={Luque, Alejandro and Ebert, Ute},
+  journal={Nature Geoscience},
+  volume={2},
+  number={11},
+  pages={757--760},
+  year={2009},
+  publisher={Nature Publishing Group}
+}
+
+@article{engwall2009earth,
+  title={Earth’s ionospheric outflow dominated by hidden cold plasma},
+  author={Engwall, Erik and Eriksson, Anders I and Cully, Christopher M and Andr{\'e}, Mats and Torbert, Roy and Vaith, Hans},
+  journal={Nature Geoscience},
+  volume={2},
+  number={1},
+  pages={24--27},
+  year={2009},
+  publisher={Nature Publishing Group}
+}
+
+@article{brambles2011magnetosphere,
+  title={Magnetosphere sawtooth oscillations induced by ionospheric outflow},
+  author={Brambles, OJ and Lotko, W and Zhang, B and Wiltberger, M and Lyon, J and Strangeway, RJ},
+  journal={Science},
+  volume={332},
+  number={6034},
+  pages={1183--1186},
+  year={2011},
+  publisher={American Association for the Advancement of Science}
+}
+
+
+@PhdThesis{许正文2005电离层对卫星信号传播及其性能影响的研究,
+  author =       {许正文},
+  title =        {电离层对卫星信号传播及其性能影响的研究},
+  school =       {西安电子科技大学},
+  year =         2005,
+  address =      {西安},
+  lang =         "zh",
+}
+
+
+@PhdThesis{李建胜2011电离层对雷达信号和导航卫星定位影响的分析与仿真研究,
+  author =       {李建胜},
+  title =        {电离层对雷达信号和导航卫星定位影响的分析与仿真研究},
+  school =       {解放军信息工程大学},
+  year =         2011,
+  address =      {郑州},
+  lang =         "zh",
+}
+
+
+
+
+@book{pulinets2004ionospheric,
+  title={Ionospheric precursors of earthquakes},
+  author={Pulinets, Sergey and Boyarchuk, Kyrill},
+  year={2004},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{liu2004pre,
+  title={Pre-earthquake ionospheric anomalies registered by continuous GPS TEC measurements},
+  author={Liu, Jann Yen and Chuo, YJ and Shan, SJ and Tsai, YB and Chen, YI and Pulinets, SA and Yu, SB},
+  booktitle={Annales Geophysicae},
+  volume={22},
+  number={5},
+  pages={1585--1593},
+  year={2004},
+  organization={Copernicus GmbH}
+}
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+
+
+@article{reinisch2009new,
+  title={New Digisonde for research and monitoring applications},
+  author={Reinisch, Bodo W and Galkin, Ivan A and Khmyrov, GM and Kozlov, AV and Bibl, K and Lisysyan, IA and Cheney, GP and Huang, X and Kitrosser, DF and Paznukhov, VV and others},
+  journal={Radio Science},
+  volume={44},
+  number={1},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+
+@article{galkin2009accuracy,
+  title={Accuracy of Virtual Height Measurements with Digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W and Khmyrov, Grigori M},
+  journal={INAG (Ionosonde Network Advisory Group) Technical Memorandum},
+  year={2009}
+}
+
+@inproceedings{galkin2011global,
+  title={Global Ionospheric Radio Observatory (GIRO): Status and prospective},
+  author={Galkin, Ivan and Reinisch, Bodo W and others},
+  booktitle={General Assembly and Scientific Symposium, 2011 XXXth URSI},
+  pages={1--4},
+  year={2011},
+  organization={IEEE}
+}
+
+@book{piggott1972handbook,
+  title={Handbook of ionogram interpretation and reduction},
+  author={Piggott, WR and Rawer, Karl},
+  year={1972},
+  publisher={US Department of Commerce}
+}
+
+@article{galkin2008new,
+  title={The new ARTIST 5 for all digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W},
+  journal={Ionosonde Network Advisory Group Bulletin},
+  volume={69},
+  number={8},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{scotto2012automatic,
+  title={Automatic scaling of polar ionograms},
+  author={Scotto, Carlo and Pezzopane, Michael},
+  journal={Antarctic Science},
+  volume={24},
+  number={01},
+  pages={88--94},
+  year={2012},
+  publisher={Cambridge Univ Press}
+}
+
+@misc{sojka2009sounding,
+  title={Sounding transformation and recognition},
+  author={Sojka, Jan J and Rice, Donald D and Thompson, Donald C},
+  year={2009},
+  month=jun # "~2",
+  publisher={Google Patents},
+  note={US Patent 7,541,967}
+}
+
+@article{reinisch1983automatic,
+  title={Automatic calculation of electron density profiles from digital ionograms: 3. Processing of bottomside ionograms},
+  author={Reinisch, Bodo W and Xueqin, Huang},
+  journal={Radio Science},
+  volume={18},
+  number={3},
+  pages={477--492},
+  year={1983},
+  publisher={Wiley Online Library}
+}
+
+
+@article{reinisch2005recent,
+  title={Recent advances in real-time analysis of ionograms and ionospheric drift measurements with digisondes},
+  author={Reinisch, BW and Huang, X and Galkin, IA and Paznukhov, V and Kozlov, A},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  volume={67},
+  number={12},
+  pages={1054--1062},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{galkin2008artist,
+  title={The Artist 5},
+  author={Galkin, Ivan A and Khmyrov, Grigori M and Kozlov, Alexander V and Reinisch, Bodo W and Huang, Xueqin and Paznukhov, Vadym V},
+  booktitle={RADIO SOUNDING AND PLASMA PHYSICS: 2007 Radio Plasma Imager Science Team Meeting, April 27, 2007; Radio Sounding and Plasma Physics Symposium, April 29, 2007; XI International Digisonde Forum, April 30--May 3, 2007},
+  volume={974},
+  number={1},
+  pages={150--159},
+  year={2008},
+  organization={AIP Publishing}
+}
+
+
+
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+
+@article{luque2009emergence,
+  title={Emergence of sprite streamers from screening-ionization waves in the lower ionosphere},
+  author={Luque, Alejandro and Ebert, Ute},
+  journal={Nature Geoscience},
+  volume={2},
+  number={11},
+  pages={757--760},
+  year={2009},
+  publisher={Nature Publishing Group}
+}
+
+@article{engwall2009earth,
+  title={Earth’s ionospheric outflow dominated by hidden cold plasma},
+  author={Engwall, Erik and Eriksson, Anders I and Cully, Christopher M and Andr{\'e}, Mats and Torbert, Roy and Vaith, Hans},
+  journal={Nature Geoscience},
+  volume={2},
+  number={1},
+  pages={24--27},
+  year={2009},
+  publisher={Nature Publishing Group}
+}
+
+@article{brambles2011magnetosphere,
+  title={Magnetosphere sawtooth oscillations induced by ionospheric outflow},
+  author={Brambles, OJ and Lotko, W and Zhang, B and Wiltberger, M and Lyon, J and Strangeway, RJ},
+  journal={Science},
+  volume={332},
+  number={6034},
+  pages={1183--1186},
+  year={2011},
+  publisher={American Association for the Advancement of Science}
+}
+
+
+
+
+
+@phdthesis{李建胜2011电离层对雷达信号和导航卫星定位影响的分析与仿真研究,
+  title={电离层对雷达信号和导航卫星定位影响的分析与仿真研究 [D]},
+  author={李建胜},
+  year={2011},
+  school={解放军信息工程大学}
+}
+
+@book{pulinets2004ionospheric,
+  title={Ionospheric precursors of earthquakes},
+  author={Pulinets, Sergey and Boyarchuk, Kyrill},
+  year={2004},
+  publisher={Springer Science \& Business Media}
+}
+
+@inproceedings{liu2004pre,
+  title={Pre-earthquake ionospheric anomalies registered by continuous GPS TEC measurements},
+  author={Liu, Jann Yen and Chuo, YJ and Shan, SJ and Tsai, YB and Chen, YI and Pulinets, SA and Yu, SB},
+  booktitle={Annales Geophysicae},
+  volume={22},
+  number={5},
+  pages={1585--1593},
+  year={2004},
+  organization={Copernicus GmbH}
+}
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+@article{maruyama2011ionospheric,
+  title={Ionospheric multiple stratifications and irregularities induced by the 2011 off the Pacific coast of Tohoku Earthquake},
+  author={Maruyama, Takashi and Tsugawa, Takuya and Kato, Hisao and Saito, Akinori and Otsuka, Yuichi and Nishioka, Michi},
+  journal={Earth, planets and space},
+  volume={63},
+  number={7},
+  pages={869--873},
+  year={2011},
+  publisher={Springer}
+}
+
+
+
+@article{reinisch2009new,
+  title={New Digisonde for research and monitoring applications},
+  author={Reinisch, Bodo W and Galkin, Ivan A and Khmyrov, GM and Kozlov, AV and Bibl, K and Lisysyan, IA and Cheney, GP and Huang, X and Kitrosser, DF and Paznukhov, VV and others},
+  journal={Radio Science},
+  volume={44},
+  number={1},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+
+@article{galkin2009accuracy,
+  title={Accuracy of Virtual Height Measurements with Digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W and Khmyrov, Grigori M},
+  journal={INAG (Ionosonde Network Advisory Group) Technical Memorandum},
+  year={2009}
+}
+
+@inproceedings{galkin2011global,
+  title={Global Ionospheric Radio Observatory (GIRO): Status and prospective},
+  author={Galkin, Ivan and Reinisch, Bodo W and others},
+  booktitle={General Assembly and Scientific Symposium, 2011 XXXth URSI},
+  pages={1--4},
+  year={2011},
+  organization={IEEE}
+}
+
+@book{piggott1972handbook,
+  title={Handbook of ionogram interpretation and reduction},
+  author={Piggott, WR and Rawer, Karl},
+  year={1972},
+  publisher={US Department of Commerce}
+}
+
+@article{galkin2008new,
+  title={The new ARTIST 5 for all digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W},
+  journal={Ionosonde Network Advisory Group Bulletin},
+  volume={69},
+  number={8},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{scotto2012automatic,
+  title={Automatic scaling of polar ionograms},
+  author={Scotto, Carlo and Pezzopane, Michael},
+  journal={Antarctic Science},
+  volume={24},
+  number={01},
+  pages={88--94},
+  year={2012},
+  publisher={Cambridge Univ Press}
+}
+
+@misc{sojka2009sounding,
+  title={Sounding transformation and recognition},
+  author={Sojka, Jan J and Rice, Donald D and Thompson, Donald C},
+  year={2009},
+  month=jun # "~2",
+  publisher={Google Patents},
+  note={US Patent 7,541,967}
+}
+
+@article{reinisch1983automatic,
+  title={Automatic calculation of electron density profiles from digital ionograms: 3. Processing of bottomside ionograms},
+  author={Reinisch, Bodo W and Xueqin, Huang},
+  journal={Radio Science},
+  volume={18},
+  number={3},
+  pages={477--492},
+  year={1983},
+  publisher={Wiley Online Library}
+}
+
+
+@article{reinisch2005recent,
+  title={Recent advances in real-time analysis of ionograms and ionospheric drift measurements with digisondes},
+  author={Reinisch, BW and Huang, X and Galkin, IA and Paznukhov, V and Kozlov, A},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  volume={67},
+  number={12},
+  pages={1054--1062},
+  year={2005},
+  publisher={Elsevier}
+}
+
+@inproceedings{galkin2008artist,
+  title={The Artist 5},
+  author={Galkin, Ivan A and Khmyrov, Grigori M and Kozlov, Alexander V and Reinisch, Bodo W and Huang, Xueqin and Paznukhov, Vadym V},
+  booktitle={RADIO SOUNDING AND PLASMA PHYSICS: 2007 Radio Plasma Imager Science Team Meeting, April 27, 2007; Radio Sounding and Plasma Physics Symposium, April 29, 2007; XI International Digisonde Forum, April 30--May 3, 2007},
+  volume={974},
+  number={1},
+  pages={150--159},
+  year={2008},
+  organization={AIP Publishing}
+}
+
+
+@article{pezzopane2007automatic,
+  title={Automatic scaling of critical frequency $foF2$ and $MUF (3000) F2$: A comparison between Autoscala and ARTIST 4.5 on Rome data},
+  author={Pezzopane, Michael and Scotto, Carlo},
+  journal={Radio Science},
+  volume={42},
+  number={4},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{scotto2008removing,
+  title={Removing multiple reflections from the $F2$ layer to improve Autoscala performance},
+  author={Scotto, Carlo and Pezzopane, Michael},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  volume={70},
+  number={15},
+  pages={1929--1934},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{pezzopane2010highlighting,
+  title={Highlighting the $F2$ trace on an ionogram to improve Autoscala performance},
+  author={Pezzopane, Michael and Scotto, C},
+  journal={Computers \& Geosciences},
+  volume={36},
+  number={9},
+  pages={1168--1177},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{scotto2007method,
+  title={A method for automatic scaling of sporadic E layers from ionograms},
+  author={Scotto, Carlo and Pezzopane, Michael},
+  journal={Radio Science},
+  volume={42},
+  number={2},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{pezzopane2008method,
+  title={A method for automatic scaling of F1 critical frequencies from ionograms},
+  author={Pezzopane, Michael and Scotto, Carlo},
+  journal={Radio Science},
+  volume={43},
+  number={2},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{rice2009expert,
+  title={An expert system for ionogram reduction (ESIR)},
+  author={Rice, DD and Sojka, JJ and Thompson, DC},
+  booktitle={2009 CEDAR Workshop, Abstract DATA-02, Santa Fe, NM, June},
+  year={2009}
+}
+
+@misc{sojka2009sounding,
+  title={Sounding transformation and recognition},
+  author={Sojka, Jan J and Rice, Donald D and Thompson, Donald C},
+  year={2009},
+  month=jun # "~2",
+  publisher={Google Patents},
+  note={US Patent 7,541,967}
+}
+
+@article{fox1989automatic,
+  title={Automatic scaling of digital ionograms},
+  author={Fox, Matthew W and Blundell, Craig},
+  journal={Radio science},
+  volume={24},
+  number={6},
+  pages={747--761},
+  year={1989},
+  publisher={Wiley Online Library}
+}
+
+@article{igi1993automatic,
+  title={Automatic ionogram processing systems in Japan},
+  author={Igi, S and Nozaki, K and Nagayama, M and Ohtani, A and Kato, H and Igarashi, K},
+  journal={Proceedings of Session G4 at the XXIVth General Assembly of the International Union of Radio Science (URSI)},
+  volume={25},
+  year={1993}
+}
+
+@article{tsai2000ionogram,
+  title={Ionogram analysis using fuzzy segmentation and connectedness techniques},
+  author={Tsai, Lung-Chih and Berkey, Frank T},
+  journal={Radio science},
+  volume={35},
+  number={5},
+  pages={1173--1186},
+  year={2000},
+  publisher={Wiley Online Library}
+}
+
+@article{pulinets1995automating,
+  title={Automating vertical ionogram collection, processing and interpretation},
+  author={Pulinets, SA},
+  journal={Ionosonde networks and stations. Proceeding of Session G6 at the XXIV General Assembly of the International Union of Radio Science (URSI) Kyoto. Japan. National Geophysical Data Center},
+  pages={37--43},
+  year={1995}
+}
+
+@article{kan2002new,
+  title={A new algorithm for high-quality ionogram generation and analysis},
+  author={kan, FA and kan, OA and Salous, S},
+  journal={RADIO SCIENCE-WASHINGTON-},
+  volume={37},
+  number={1},
+  pages={4--1},
+  year={2002},
+  publisher={AGU AMERICAN GEOPHYSICAL UNION}
+}
+
+@PhdThesis{丁宗华2006电离层频高图自动度量与分析的方法研究,
+  author =       {丁宗华},
+  title =        {电离层频高图自动度量与分析的方法研究},
+  school =       {中国科学院地质与地球物理研究所},
+  year =         2006,
+  address =      {北京},
+  lang =         "zh",
+}
+
+
+
+
+@article{ding2007automatic,
+  title={Automatic scaling of F2-layer parameters from ionograms based on the empirical orthogonal function (EOF) analysis of ionospheric electron density},
+  author={Ding, Zonghua and Ning, Baiqi and Wan, Weixing and Liu, Libo},
+  journal={Earth, planets and space},
+  volume={59},
+  number={1},
+  pages={51--58},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{丁宗华2007电离层频高图参数的实时自动度量与分析,
+  title={电离层频高图参数的实时自动度量与分析},
+  author={丁宗华 and 宁百齐 and 万卫星},
+  journal={地球物理学报},
+  volume={50},
+  number={4},
+  pages={969--978},
+  year={2007}
+}
+
+@article{柳文2009基于,
+  title={基于 IRI 模型的垂测电离图自动判读算法},
+  author={柳文 and 孔庆颜 and 陈跃 and 凡俊梅},
+  journal={电波科学学报},
+  volume={24},
+  number={2},
+  pages={218--223},
+  year={2009}
+}
+
+@article{凡俊梅2009电离层斜向传播模式的智能识别,
+  title={电离层斜向传播模式的智能识别},
+  author={凡俊梅 and 鲁转侠 and 焦培南},
+  journal={电波科学学报},
+  volume={24},
+  number={3},
+  pages={471--475},
+  year={2009}
+}
+@article{李雪2010返回散射电离图智能判读,
+  title={返回散射电离图智能判读},
+  author={李雪 and 冯静 and 邓维波 and 焦培南},
+  journal={电波科学学报},
+  number={3},
+  pages={534--537},
+  year={2010}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@book{焦维新2002空间探测,
+  title={空间探测},
+  author={焦维新},
+  publisher={北京大学出版社},
+  year={2002},
+}
+
+@PhdThesis{徐彤2009中低纬电离层模型及其异常现象相关研究,
+  author =       {徐彤},
+  title =        {中低纬电离层模型及其异常现象相关研究},
+  school =       {西安电子科技大学},
+  year =         2009,
+  address =      {西安},
+  lang =         "zh",
+}
+
+@mastersthesis{林晨2004软件无线电在电离层测高仪中的应用研究,
+  title={软件无线电在电离层测高仪中的应用研究},
+  author={林晨},
+  year={2004},
+  school={中国科学院研究生院 (武汉物理与数学研究所)},
+  address ={武汉},
+  lang = "zh",
+}
+
+
+
+
+
+@article{scotto2009electron,
+  title={Electron density profile calculation technique for Autoscala ionogram analysis},
+  author={Scotto, Carlo},
+  journal={Advances in Space Research},
+  volume={44},
+  number={6},
+  pages={756--766},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{galkin2008new,
+  title={The new ARTIST 5 for all digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W},
+  journal={Ionosonde Network Advisory Group Bulletin},
+  volume={69},
+  number={8},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{sezgin2004survey,
+  title={Survey over image thresholding techniques and quantitative performance evaluation},
+  author={Sezgin, Mehmet and others},
+  journal={Journal of Electronic imaging},
+  volume={13},
+  number={1},
+  pages={146--168},
+  year={2004},
+  publisher={International Society for Optics and Photonics}
+}
+
+@article{otsu1975threshold,
+  title={A threshold selection method from gray-level histograms},
+  author={Otsu, Nobuyuki},
+  journal={Automatica},
+  volume={11},
+  number={285-296},
+  pages={23--27},
+  year={1975}
+}
+
+@article{crow1984summed,
+  title={Summed-area tables for texture mapping},
+  author={Crow, Franklin C},
+  journal={ACM SIGGRAPH computer graphics},
+  volume={18},
+  number={3},
+  pages={207--212},
+  year={1984},
+  publisher={ACM}
+}
+
+@inproceedings{di1999simple,
+  title={A simple and efficient connected components labeling algorithm},
+  author={Di Stefano, Luigi and Bulgarelli, Andrea},
+  booktitle={Image Analysis and Processing, 1999. Proceedings. International Conference on},
+  pages={322--327},
+  year={1999},
+  organization={IEEE}
+}
+
+@article{blura1973biological,
+  title={Biological shape and visual science},
+  author={Blura, H},
+  journal={J. Thcor. Biol},
+  volume={38},
+  pages={205--287},
+  year={1973}
+}
+
+@article{廖志武20092,
+  title={2-D 骨架提取算法研究进展},
+  author={廖志武},
+  journal={四川师范大学学报: 自然科学版},
+  number={5},
+  pages={676--688},
+  year={2009}
+}
+
+
+@PhdThesis{陈晓飞2004基于骨架的目标表示和识别技术研究,
+  author ={陈晓飞},
+  title ={基于骨架的目标表示和识别技术研究},
+  school ={国防科学技术大学},
+  year =2004,
+  address ={长沙},
+  lang ="zh",
+}
+
+
+
+@article{pezzopane2010highlighting,
+  title={Highlighting the F2 trace on an ionogram to improve Autoscala performance},
+  author={Pezzopane, Michael and Scotto, C},
+  journal={Computers \& Geosciences},
+  volume={36},
+  number={9},
+  pages={1168--1177},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{scotto2007method,
+  title={A method for automatic scaling of sporadic E layers from ionograms},
+  author={Scotto, Carlo and Pezzopane, Michael},
+  journal={Radio Science},
+  volume={42},
+  number={2},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+@article{pezzopane2008method,
+  title={A method for automatic scaling of F1 critical frequencies from ionograms},
+  author={Pezzopane, Michael and Scotto, Carlo},
+  journal={Radio Science},
+  volume={43},
+  number={2},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{rice2009expert,
+  title={An expert system for ionogram reduction (ESIR)},
+  author={Rice, DD and Sojka, JJ and Thompson, DC},
+  booktitle={2009 CEDAR Workshop, Abstract DATA-02, Santa Fe, NM, June},
+  year={2009}
+}
+
+@misc{sojka2009sounding,
+  title={Sounding transformation and recognition},
+  author={Sojka, Jan J and Rice, Donald D and Thompson, Donald C},
+  year={2009},
+  month=jun # "~2",
+  publisher={Google Patents},
+  note={US Patent 7,541,967}
+}
+
+@article{fox1989automatic,
+  title={Automatic scaling of digital ionograms},
+  author={Fox, Matthew W and Blundell, Craig},
+  journal={Radio science},
+  volume={24},
+  number={6},
+  pages={747--761},
+  year={1989},
+  publisher={Wiley Online Library}
+}
+
+@article{igi1993automatic,
+  title={Automatic ionogram processing systems in Japan},
+  author={Igi, S and Nozaki, K and Nagayama, M and Ohtani, A and Kato, H and Igarashi, K},
+  journal={Proceedings of Session G4 at the XXIVth General Assembly of the International Union of Radio Science (URSI)},
+  volume={25},
+  year={1993}
+}
+
+@article{tsai2000ionogram,
+  title={Ionogram analysis using fuzzy segmentation and connectedness techniques},
+  author={Tsai, Lung-Chih and Berkey, Frank T},
+  journal={Radio science},
+  volume={35},
+  number={5},
+  pages={1173--1186},
+  year={2000},
+  publisher={Wiley Online Library}
+}
+
+@article{pulinets1995automating,
+  title={Automating vertical ionogram collection, processing and interpretation},
+  author={Pulinets, SA},
+  journal={Ionosonde networks and stations. Proceeding of Session G6 at the XXIV General Assembly of the International Union of Radio Science (URSI) Kyoto. Japan. National Geophysical Data Center},
+  pages={37--43},
+  year={1995}
+}
+
+@article{kan2002new,
+  title={A new algorithm for high-quality ionogram generation and analysis},
+  author={kan, FA and kan, OA and Salous, S},
+  journal={RADIO SCIENCE-WASHINGTON-},
+  volume={37},
+  number={1},
+  pages={4--1},
+  year={2002},
+  publisher={AGU AMERICAN GEOPHYSICAL UNION}
+}
+
+
+
+@article{ding2007automatic,
+  title={Automatic scaling of F2-layer parameters from ionograms based on the empirical orthogonal function (EOF) analysis of ionospheric electron density},
+  author={Ding, Zonghua and Ning, Baiqi and Wan, Weixing and Liu, Libo},
+  journal={Earth, planets and space},
+  volume={59},
+  number={1},
+  pages={51--58},
+  year={2007},
+  publisher={Springer}
+}
+
+@article{丁宗华2007电离层频高图参数的实时自动度量与分析,
+  title={电离层频高图参数的实时自动度量与分析},
+  author={丁宗华 and 宁百齐 and 万卫星},
+  journal={地球物理学报},
+  volume={50},
+  number={4},
+  pages={969--978},
+  year={2007}
+}
+
+@article{柳文2009基于,
+  title={基于 IRI 模型的垂测电离图自动判读算法},
+  author={柳文 and 孔庆颜 and 陈跃 and 凡俊梅},
+  journal={电波科学学报},
+  volume={24},
+  number={2},
+  pages={218--223},
+  year={2009}
+}
+
+@article{凡俊梅2009电离层斜向传播模式的智能识别,
+  title={电离层斜向传播模式的智能识别},
+  author={凡俊梅 and 鲁转侠 and 焦培南},
+  journal={电波科学学报},
+  volume={24},
+  number={3},
+  pages={471--475},
+  year={2009}
+}
+@article{李雪2010返回散射电离图智能判读,
+  title={返回散射电离图智能判读},
+  author={李雪 and 冯静 and 邓维波 and 焦培南},
+  journal={电波科学学报},
+  number={3},
+  pages={534--537},
+  year={2010}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@book{焦维新2002空间探测,
+  title={空间探测},
+  author={焦维新},
+  publisher={北京大学出版社},
+  year={2002},
+}
+
+@phdthesis{徐彤2009中低纬电离层模型及其异常现象相关研究,
+  title={中低纬电离层模型及其异常现象相关研究},
+  author={徐彤},
+  year={2009},
+  school={西安电子科技大学}
+}
+
+@mastersthesis{林晨2004软件无线电在电离层测高仪中的应用研究,
+  title={软件无线电在电离层测高仪中的应用研究},
+  author={林晨},
+  year={2004},
+  school={中国科学院研究生院 (武汉物理与数学研究所)}
+}
+
+@article{scotto2009electron,
+  title={Electron density profile calculation technique for Autoscala ionogram analysis},
+  author={Scotto, Carlo},
+  journal={Advances in Space Research},
+  volume={44},
+  number={6},
+  pages={756--766},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{galkin2008new,
+  title={The new ARTIST 5 for all digisondes},
+  author={Galkin, Ivan A and Reinisch, Bodo W},
+  journal={Ionosonde Network Advisory Group Bulletin},
+  volume={69},
+  number={8},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{bilitza2008international,
+  title={International reference ionosphere 2007: improvements and new parameters},
+  author={Bilitza, Dieter and Reinisch, Bodo W},
+  journal={Advances in Space Research},
+  volume={42},
+  number={4},
+  pages={599--609},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{sezgin2004survey,
+  title={Survey over image thresholding techniques and quantitative performance evaluation},
+  author={Sezgin, Mehmet and others},
+  journal={Journal of Electronic imaging},
+  volume={13},
+  number={1},
+  pages={146--168},
+  year={2004},
+  publisher={International Society for Optics and Photonics}
+}
+
+@article{otsu1975threshold,
+  title={A threshold selection method from gray-level histograms},
+  author={Otsu, Nobuyuki},
+  journal={Automatica},
+  volume={11},
+  number={285-296},
+  pages={23--27},
+  year={1975}
+}
+
+@article{crow1984summed,
+  title={Summed-area tables for texture mapping},
+  author={Crow, Franklin C},
+  journal={ACM SIGGRAPH computer graphics},
+  volume={18},
+  number={3},
+  pages={207--212},
+  year={1984},
+  publisher={ACM}
+}
+
+@inproceedings{di1999simple,
+  title={A simple and efficient connected components labeling algorithm},
+  author={Di Stefano, Luigi and Bulgarelli, Andrea},
+  booktitle={Image Analysis and Processing, 1999. Proceedings. International Conference on},
+  pages={322--327},
+  year={1999},
+  organization={IEEE}
+}
+
+@article{blura1973biological,
+  title={Biological shape and visual science},
+  author={Blura, H},
+  journal={J. Thcor. Biol},
+  volume={38},
+  pages={205--287},
+  year={1973}
+}
+
+@article{廖志武20092,
+  title={2-D 骨架提取算法研究进展},
+  author={廖志武},
+  journal={四川师范大学学报: 自然科学版},
+  number={5},
+  pages={676--688},
+  year={2009}
+}
+
+@phdthesis{陈晓飞2004基于骨架的目标表示和识别技术研究,
+  title={基于骨架的目标表示和识别技术研究},
+  author={陈晓飞},
+  year={2004},
+  school={国防科学技术大学}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
